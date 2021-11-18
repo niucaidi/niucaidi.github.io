@@ -8,7 +8,7 @@ author: Da Yu  #作者
 #toc: true   #生成目录
 pinned: true   #置顶帖
 ---
-Islang Fish是一个记载知识的自留地
+Islang Fish，一个记载学习历程的自留地
 
 ## 2021-11-18
 - 千回百转，发现自己最喜欢的还是C语言和汇编，当然VFB和Python也是要学一些的，这俩货能提供很大的便利
