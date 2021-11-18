@@ -4,7 +4,7 @@ title: "欢迎来到Island Fish"  #标题
 date: 2021-11-18-12:51:15  #时间
 author: Da Yu  #作者
 #category: 类别  #类别
-#tags: 标签  #标签
+tags: 置顶帖  #标签
 #toc: true   #生成目录
 pinned: true   #置顶帖
 ---
